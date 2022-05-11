@@ -1,4 +1,4 @@
 # personalsite
-Hosted on:
+Hosted on: https://brendanberkman.netlify.app/
 
 Built using React.js

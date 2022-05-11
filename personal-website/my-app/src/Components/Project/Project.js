@@ -8,7 +8,7 @@ import maya from "../imgs/maya.jpg"
 const Project = () => {
   return (
     <div className= "projects-content">
-        <h1 className = "project">Some projects i've done</h1>
+        <h1 className = "project">Some projects I've done</h1>
         <div className = "pitems">
           <div className = "pwrap">
             <a href = "https://github.com/kevink107/wiki-app" target="_blank">

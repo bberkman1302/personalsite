@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2313e722.css",
+    "main.js": "/static/js/main.db677e07.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/baker.jpg": "/static/media/baker.0fba143b5863c37c4eb0.jpg",
+    "static/media/Resume_Brendan_Berkman.pdf": "/static/media/Resume_Brendan_Berkman.4c9142d55d0e4d736cd1.pdf",
+    "static/media/wordle.jpg": "/static/media/wordle.4a282a92cdd34272147f.jpg",
+    "static/media/wiki.jpeg": "/static/media/wiki.2a6db62818c293a72c6f.jpeg",
+    "static/media/maya.jpg": "/static/media/maya.49b6d993357b8c4172f5.jpg",
+    "index.html": "/index.html",
+    "main.2313e722.css.map": "/static/css/main.2313e722.css.map",
+    "main.db677e07.js.map": "/static/js/main.db677e07.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2313e722.css",
+    "static/js/main.db677e07.js"
+  ]
+}

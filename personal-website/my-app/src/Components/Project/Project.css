@@ -1,0 +1,70 @@
+.projects-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+.project{
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+  height: 40px;
+  width: max-content;
+  font-weight: bold;
+}
+
+.proimg {
+  width:150px; /* you can use % */
+  height: 150px;
+  margin-top: 35px;
+  vertical-align: top;
+  margin-top: 20px;
+}
+
+.pitems{
+  display: flex;
+  flex-direction: row;
+  transition: 0.5s;
+}
+
+#wordle{
+  transition: 0.5s;
+}
+
+#wordle:hover{
+  filter: brightness(30%);
+}
+
+#wiki{
+  margin-left: 20px;
+  transition: 0.5s;
+}
+
+#wiki:hover{
+  filter: brightness(30%);
+}
+
+#maya{
+  margin-left: 20px;
+  transition: 0.5s;
+}
+
+#maya:hover{
+  filter: brightness(30%);
+}
+
+#wdesc{
+  margin-left: 5px;
+  font-size: 12px;
+}
+
+.otherdesc{
+  font-size: 12px;
+  margin-left: 25px;
+
+}
+
+
+
+

@@ -1,0 +1,44 @@
+html{
+  scroll-behavior: smooth;
+}
+.App{
+  font-family: 'Poppins', sans-serif;
+
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(231, 233, 234);
+}
+
+.Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-left: 20px;
+}
+
+
+#Intro{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  width: 50%;
+}
+
+
+#Project{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  width: 50%;
+}
+
+#Contact{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  width: 50%;
+}
+
+
+
+

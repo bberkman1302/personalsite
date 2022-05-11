@@ -1,0 +1,25 @@
+#navcontent{
+  padding-left: 25px;
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: fixed;
+  top: 38vh;
+}
+
+.navitem{
+  margin-top: 15px;
+  font-size: 15px;
+  font-weight: bolder;
+  color: rgb(23, 23, 23);
+  text-decoration: none;
+}
+
+.navitem:hover{
+  margin-top: 15px;
+  font-size: 15px;
+  font-weight: bolder;
+  color: rgb(78, 78, 78);
+  text-decoration: none;
+}

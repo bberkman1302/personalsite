@@ -16,7 +16,7 @@ const Intro = () => {
           </div>
           <div className = "desc">
             I'm a sophomore at Dartmouth majoring in Computer Science and intending to
-            minor in Digital Arts or Philosophy. I have a particular interest in machine learning
+            minor in Digital Arts or Math. I have a particular interest in machine learning
             and data science, and spend time outside of class exploring those fields. 
             In my free time, I love to be outdoors, playing basketball or skiing with friends.
           </div>

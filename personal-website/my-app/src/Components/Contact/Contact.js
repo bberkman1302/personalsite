@@ -8,17 +8,17 @@ const Contact = () => {
     <h1 className = "contact">Contact Me</h1>
       <div className = "citems">
         <div className = "cwrap">
-          <a href = "https://github.com/bberkman1302" target="_blank">
+          <a href = "https://github.com/bberkman1302" rel="noreferrer" target="_blank">
             <button className = "button">Github</button>
           </a>
         </div>
         <div className = "cwrap">
-          <a href = "https://www.linkedin.com/in/brendan-berkman-495119206/" target="_blank">
+          <a href = "https://www.linkedin.com/in/brendan-berkman-495119206/" rel="noreferrer" target="_blank">
             <button className = "button">LinkedIn</button>
           </a>
         </div>
         <div className = "cwrap">
-          <a href = {Resume} download="BrendanBerkmanResume" target="_blank">
+          <a href = {Resume} download="BrendanBerkmanResume" rel="noreferrer" target="_blank">
             <button className = "button">Resume</button>
           </a>
         </div>
